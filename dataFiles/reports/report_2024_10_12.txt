@@ -1,0 +1,7 @@
+*********** Order List (2024_10_12) ***********
+Order ID:   1  StaffName:Tesuton Testole                 Total:$60.00 
+Order ID:   2  StaffName:Tesuton Testole                 Total:$42.50 
+Order ID:   3  StaffName:David Gatta                     Total:$34.45 
+Order ID:   4  StaffName:David Gatta                     Total:$55.50 
+-------------------------------------------------------
+Total sales:$192.45(4)  Canceled:$0.0(0)

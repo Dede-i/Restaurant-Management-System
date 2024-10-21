@@ -1,0 +1,4 @@
+*********** Payment List (2024_10_09) ***********
+Order ID:1000  StaffName:Hello Java                      Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:$100.0(1)

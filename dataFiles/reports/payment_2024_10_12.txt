@@ -1,0 +1,6 @@
+*********** Payment List (2024_10_12) ***********
+Order ID:1000  StaffName:Hello Java                      Work time:0.00  Pay:100.00
+Order ID:1111  StaffName:Tesuton Testole                 Work time:0.00  Pay:0.00 
+Order ID:3333  StaffName:David Gatta                     Work time:0.00  Pay:0.00 
+-------------------------------------------------------
+Total payment:$100.0(3)
