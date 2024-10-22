@@ -59,6 +59,8 @@ public class Order {
     }
 }
 
+Explained : The Order class is used to handle a customer's order. In order to add products and calculate the total cost.
+
 3. Order Detail Module
 
 Example:
@@ -76,6 +78,8 @@ public class OrderDetail {
         return item.getPrice() * quantity;
     }
 }
+
+Explained : in OrderDetail, described Each item in an order, together with its price and quantity, retrieves pricing information from the MenuItem class and determines the item's overall cost. Accurate order processing and invoicing depend on this.
 
 4. MenuItem Module
 
@@ -97,6 +101,7 @@ public class MenuItem {
     }
 }
 
+Explained : The MenuItem class provides methods to readily obtain the ID, name, and price of an item. It interacts with classes like OrderDetail to expedite the ordering process and represents orderable products.
 
 5. Database Module
 
@@ -125,3 +130,5 @@ public class Database {
         // Execute query to update the order
     }
 }
+
+Explained : The Database class functions as the data access layer, offering ways to use SQL queries via JDBC to save, retrieve, and change orders.
