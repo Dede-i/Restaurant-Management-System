@@ -23,11 +23,11 @@ public class Controller {
     }
 }
 
-Explained : 
+Explained : The Controller class manages order operations and maintains data consistency inside the MVC architecture by serving as a mediator between the database and the user interface.
 
 2. Order Module
 
-Example:
+Example: 
 
 public class Order {
     private int orderID;
